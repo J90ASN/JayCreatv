@@ -1,4 +1,8 @@
 {
+"homepage": "https://J90ASN.github.io/JayCreatv"
+"predeploy": "npm run build",
+"deploy": "gh-pages -d dist",
+"deploy": "gh-pages -d dist",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
